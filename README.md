@@ -21,7 +21,7 @@ Este é um catálogo colaborativo de receitas culinárias.
 ### Sobremesas
 
 - Brownie de Chocolate
-
+AAAAAAA
 ## 🚀 Como Contribuir
 
 1. Clone o repositório
@@ -29,6 +29,7 @@ Este é um catálogo colaborativo de receitas culinárias.
 3. Adicione a receita na pasta apropriada
 4. Faça commit com mensagem clara
 5. Envie pull request
+6. ddsaf
 ## 💡 Dicas de Cozinha
 - Use ingredientes frescos
 - Leia a receita completa antes
