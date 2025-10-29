@@ -20,8 +20,7 @@ Este é um catálogo colaborativo de receitas culinárias.
 
 ### Sobremesas
 
-- Brownie de Chocolatef
-aaaaaaaa
+- Brownie de Chocolate
 
 ## 🚀 Como Contribuir
 
@@ -30,6 +29,11 @@ aaaaaaaa
 3. Adicione a receita na pasta apropriada
 4. Faça commit com mensagem clara
 5. Envie pull request
+6. ddsaf
+## 💡 Dicas de Cozinha
+- Use ingredientes frescos
+- Leia a receita completa antes
+
 ## 🥕 Ingredientes Comuns
 - Sal
 - Azeite
